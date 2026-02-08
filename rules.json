@@ -1,8 +1,19 @@
 [
     {
         "v": 1,
-        "savedAt": "2026-02-08T01:32:55.820Z",
-        "players": [],
+        "savedAt": "2026-02-08T01:33:10.548Z",
+        "players": [
+            {
+                "id64": "76561198101672247",
+                "nombre": "TheDonstrachi",
+                "avatar": "https://avatars.cloudflare.steamstatic.com/8d5a95f7d8b19b32b7d6b0db3abecdc64c5e8c77_full.jpg",
+                "url": "https://steamcommunity.com/id/Donstrachi",
+                "empresa": "TRANSPORTES SULLANA EXPRESS",
+                "createdAt": "2026-02-08T01:33:09.342Z",
+                "updatedAt": "2026-02-08T01:33:09.342Z",
+                "bans": []
+            }
+        ],
         "trash": [
             {
                 "_type": "player",
