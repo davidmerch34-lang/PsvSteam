@@ -1,122 +1,8 @@
 [
     {
         "v": 1,
-        "savedAt": "2026-02-08T01:31:04.332Z",
-        "players": [
-            {
-                "id64": "76561198871428289",
-                "nombre": "【TRZ】Linux",
-                "avatar": "https://avatars.akamai.steamstatic.com/e64dfddd5ea28f2169626e7bd0045ee00231846f_full.jpg",
-                "url": "https://steamcommunity.com/id/linuxmch/",
-                "empresa": "TURISMO RARAZ",
-                "createdAt": "2026-02-07T20:49:23.359Z",
-                "updatedAt": "2026-02-08T01:31:03.127Z",
-                "bans": []
-            },
-            {
-                "id64": "76561199371414474",
-                "nombre": "[BRT]makanakitupapa",
-                "avatar": "https://avatars.akamai.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
-                "url": "https://steamcommunity.com/profiles/76561199371414474/",
-                "empresa": "BARRETO",
-                "createdAt": "2026-02-07T22:51:37.809Z",
-                "updatedAt": "2026-02-08T01:31:03.127Z",
-                "bans": []
-            },
-            {
-                "id64": "76561198121314745",
-                "nombre": "Cuervitorock",
-                "avatar": "https://avatars.akamai.steamstatic.com/37c147f3bb36d7040d4684650c61eb51ed530250_full.jpg",
-                "url": "https://steamcommunity.com/id/cuervitorock",
-                "empresa": "",
-                "createdAt": "2026-02-07T23:35:34.867Z",
-                "updatedAt": "2026-02-08T01:31:03.127Z",
-                "bans": [
-                    {
-                        "_id": "ban_1770507334866_b7459ad8ac64f",
-                        "id64": "76561198121314745",
-                        "nombre": "Cuervitorock",
-                        "empresa": "EXPRESO LOBATO",
-                        "tipo": "permanente",
-                        "steamUrl": "https://steamcommunity.com/id/cuervitorock",
-                        "inicio": "",
-                        "fin": "",
-                        "inicioISO": "",
-                        "finISO": "",
-                        "duracionSeg": 0,
-                        "fechaBanISO": "2026-02-07T23:35:34.866Z",
-                        "desc": "ssaddsasdadsa",
-                        "admin": "admin",
-                        "video": "",
-                        "avatar": "https://avatars.akamai.steamstatic.com/37c147f3bb36d7040d4684650c61eb51ed530250_full.jpg",
-                        "fecha": "7/2/2026, 6:35:34 p. m.",
-                        "fechaISO": "2026-02-07T23:35:34.866Z"
-                    }
-                ]
-            },
-            {
-                "id64": "76561198120324505",
-                "nombre": "Jenn",
-                "avatar": "https://avatars.cloudflare.steamstatic.com/1df3535a6f4c9bcf76d310fff46700d18b98412c_full.jpg",
-                "url": "https://steamcommunity.com/id/ninfita",
-                "empresa": "",
-                "createdAt": "2026-02-08T00:11:35.043Z",
-                "updatedAt": "2026-02-08T01:31:03.127Z",
-                "bans": [
-                    {
-                        "_id": "ban_1770509495043_b71d3743e9711",
-                        "id64": "76561198120324505",
-                        "nombre": "Jenn",
-                        "empresa": "EXPRESO LOBATO",
-                        "tipo": "permanente",
-                        "steamUrl": "https://steamcommunity.com/id/ninfita",
-                        "inicio": "",
-                        "fin": "",
-                        "inicioISO": "",
-                        "finISO": "",
-                        "duracionSeg": 0,
-                        "fechaBanISO": "2026-02-08T00:11:35.042Z",
-                        "desc": "dsadsadssaddsadds",
-                        "admin": "admin",
-                        "video": "sdadsdsa",
-                        "avatar": "https://avatars.cloudflare.steamstatic.com/1df3535a6f4c9bcf76d310fff46700d18b98412c_full.jpg",
-                        "fecha": "7/2/2026, 7:11:35 p. m.",
-                        "fechaISO": "2026-02-08T00:11:35.042Z"
-                    }
-                ]
-            },
-            {
-                "id64": "76561198101672247",
-                "nombre": "TheDonstrachi",
-                "avatar": "https://avatars.cloudflare.steamstatic.com/8d5a95f7d8b19b32b7d6b0db3abecdc64c5e8c77_full.jpg",
-                "url": "https://steamcommunity.com/id/Donstrachi",
-                "empresa": "",
-                "createdAt": "2026-02-08T01:14:22.273Z",
-                "updatedAt": "2026-02-08T01:31:03.127Z",
-                "bans": [
-                    {
-                        "_id": "ban_1770513262273_9a1ad1ce51e33",
-                        "id64": "76561198101672247",
-                        "nombre": "TheDonstrachi",
-                        "empresa": "GM INTERNACIONAL",
-                        "tipo": "permanente",
-                        "steamUrl": "https://steamcommunity.com/id/Donstrachi",
-                        "inicio": "",
-                        "fin": "",
-                        "inicioISO": "",
-                        "finISO": "",
-                        "duracionSeg": 0,
-                        "fechaBanISO": "2026-02-08T01:14:22.273Z",
-                        "desc": "dfsfdsfdsfdsf",
-                        "admin": "admin",
-                        "video": "sdfdsffds",
-                        "avatar": "https://avatars.cloudflare.steamstatic.com/8d5a95f7d8b19b32b7d6b0db3abecdc64c5e8c77_full.jpg",
-                        "fecha": "7/2/2026, 8:14:22 p. m.",
-                        "fechaISO": "2026-02-08T01:14:22.273Z"
-                    }
-                ]
-            }
-        ],
+        "savedAt": "2026-02-08T01:32:55.820Z",
+        "players": [],
         "trash": [
             {
                 "_type": "player",
@@ -25154,6 +25040,144 @@
                 "fechaISO": "2026-02-06T16:28:01.074Z",
                 "deletedAt": "2026-02-06T20:28:30.699Z",
                 "deletedBy": "admin"
+            },
+            {
+                "_type": "player",
+                "deletedAt": "2026-02-08T01:32:54.318Z",
+                "deletedBy": "admin",
+                "player": {
+                    "id64": "76561198871428289",
+                    "nombre": "【TRZ】Linux",
+                    "avatar": "https://avatars.akamai.steamstatic.com/e64dfddd5ea28f2169626e7bd0045ee00231846f_full.jpg",
+                    "url": "https://steamcommunity.com/id/linuxmch/",
+                    "empresa": "TURISMO RARAZ",
+                    "createdAt": "2026-02-07T20:49:23.359Z",
+                    "updatedAt": "2026-02-08T01:31:03.127Z",
+                    "bans": []
+                }
+            },
+            {
+                "_type": "player",
+                "deletedAt": "2026-02-08T01:32:54.318Z",
+                "deletedBy": "admin",
+                "player": {
+                    "id64": "76561199371414474",
+                    "nombre": "[BRT]makanakitupapa",
+                    "avatar": "https://avatars.akamai.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
+                    "url": "https://steamcommunity.com/profiles/76561199371414474/",
+                    "empresa": "BARRETO",
+                    "createdAt": "2026-02-07T22:51:37.809Z",
+                    "updatedAt": "2026-02-08T01:31:03.127Z",
+                    "bans": []
+                }
+            },
+            {
+                "_type": "player",
+                "deletedAt": "2026-02-08T01:32:54.318Z",
+                "deletedBy": "admin",
+                "player": {
+                    "id64": "76561198121314745",
+                    "nombre": "Cuervitorock",
+                    "avatar": "https://avatars.akamai.steamstatic.com/37c147f3bb36d7040d4684650c61eb51ed530250_full.jpg",
+                    "url": "https://steamcommunity.com/id/cuervitorock",
+                    "empresa": "",
+                    "createdAt": "2026-02-07T23:35:34.867Z",
+                    "updatedAt": "2026-02-08T01:31:03.127Z",
+                    "bans": [
+                        {
+                            "_id": "ban_1770507334866_b7459ad8ac64f",
+                            "id64": "76561198121314745",
+                            "nombre": "Cuervitorock",
+                            "empresa": "EXPRESO LOBATO",
+                            "tipo": "permanente",
+                            "steamUrl": "https://steamcommunity.com/id/cuervitorock",
+                            "inicio": "",
+                            "fin": "",
+                            "inicioISO": "",
+                            "finISO": "",
+                            "duracionSeg": 0,
+                            "fechaBanISO": "2026-02-07T23:35:34.866Z",
+                            "desc": "ssaddsasdadsa",
+                            "admin": "admin",
+                            "video": "",
+                            "avatar": "https://avatars.akamai.steamstatic.com/37c147f3bb36d7040d4684650c61eb51ed530250_full.jpg",
+                            "fecha": "7/2/2026, 6:35:34 p. m.",
+                            "fechaISO": "2026-02-07T23:35:34.866Z"
+                        }
+                    ]
+                }
+            },
+            {
+                "_type": "player",
+                "deletedAt": "2026-02-08T01:32:54.318Z",
+                "deletedBy": "admin",
+                "player": {
+                    "id64": "76561198120324505",
+                    "nombre": "Jenn",
+                    "avatar": "https://avatars.cloudflare.steamstatic.com/1df3535a6f4c9bcf76d310fff46700d18b98412c_full.jpg",
+                    "url": "https://steamcommunity.com/id/ninfita",
+                    "empresa": "",
+                    "createdAt": "2026-02-08T00:11:35.043Z",
+                    "updatedAt": "2026-02-08T01:31:03.127Z",
+                    "bans": [
+                        {
+                            "_id": "ban_1770509495043_b71d3743e9711",
+                            "id64": "76561198120324505",
+                            "nombre": "Jenn",
+                            "empresa": "EXPRESO LOBATO",
+                            "tipo": "permanente",
+                            "steamUrl": "https://steamcommunity.com/id/ninfita",
+                            "inicio": "",
+                            "fin": "",
+                            "inicioISO": "",
+                            "finISO": "",
+                            "duracionSeg": 0,
+                            "fechaBanISO": "2026-02-08T00:11:35.042Z",
+                            "desc": "dsadsadssaddsadds",
+                            "admin": "admin",
+                            "video": "sdadsdsa",
+                            "avatar": "https://avatars.cloudflare.steamstatic.com/1df3535a6f4c9bcf76d310fff46700d18b98412c_full.jpg",
+                            "fecha": "7/2/2026, 7:11:35 p. m.",
+                            "fechaISO": "2026-02-08T00:11:35.042Z"
+                        }
+                    ]
+                }
+            },
+            {
+                "_type": "player",
+                "deletedAt": "2026-02-08T01:32:54.318Z",
+                "deletedBy": "admin",
+                "player": {
+                    "id64": "76561198101672247",
+                    "nombre": "TheDonstrachi",
+                    "avatar": "https://avatars.cloudflare.steamstatic.com/8d5a95f7d8b19b32b7d6b0db3abecdc64c5e8c77_full.jpg",
+                    "url": "https://steamcommunity.com/id/Donstrachi",
+                    "empresa": "",
+                    "createdAt": "2026-02-08T01:14:22.273Z",
+                    "updatedAt": "2026-02-08T01:31:03.127Z",
+                    "bans": [
+                        {
+                            "_id": "ban_1770513262273_9a1ad1ce51e33",
+                            "id64": "76561198101672247",
+                            "nombre": "TheDonstrachi",
+                            "empresa": "GM INTERNACIONAL",
+                            "tipo": "permanente",
+                            "steamUrl": "https://steamcommunity.com/id/Donstrachi",
+                            "inicio": "",
+                            "fin": "",
+                            "inicioISO": "",
+                            "finISO": "",
+                            "duracionSeg": 0,
+                            "fechaBanISO": "2026-02-08T01:14:22.273Z",
+                            "desc": "dfsfdsfdsfdsf",
+                            "admin": "admin",
+                            "video": "sdfdsffds",
+                            "avatar": "https://avatars.cloudflare.steamstatic.com/8d5a95f7d8b19b32b7d6b0db3abecdc64c5e8c77_full.jpg",
+                            "fecha": "7/2/2026, 8:14:22 p. m.",
+                            "fechaISO": "2026-02-08T01:14:22.273Z"
+                        }
+                    ]
+                }
             }
         ],
         "empresasData": [],
