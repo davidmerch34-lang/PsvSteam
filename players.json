@@ -1,1 +1,57 @@
-[ ]
+[
+    {
+        "id64": "76561198010968822",
+        "nombre": "Zarrior",
+        "empresa": "TRANSPORTES SULLANA EXPRESS",
+        "url": "https://steamcommunity.com/id/Zarrior94",
+        "avatar": "https://avatars.cloudflare.steamstatic.com/cb1aa489891f2fae30fdaa08047f61678899bda5_full.jpg",
+        "createdAt": "2026-02-08T05:05:56+00:00",
+        "updatedAt": "2026-02-08T05:37:29+00:00"
+    },
+    {
+        "id64": "76561198853158363",
+        "nombre": "Lordcookies",
+        "empresa": "J&F INTERNACIONAL",
+        "url": "https://steamcommunity.com/profiles/76561198853158363",
+        "avatar": "https://avatars.akamai.steamstatic.com/cd4157d04df12423a05cf2107a9d9143cd7ad182_full.jpg",
+        "createdAt": "2026-02-08T05:06:07+00:00",
+        "updatedAt": "2026-02-08T05:06:41+00:00"
+    },
+    {
+        "id64": "76561198127802282",
+        "nombre": "Dupond",
+        "empresa": "J&F INTERNACIONAL",
+        "url": "https://steamcommunity.com/profiles/76561198127802282",
+        "avatar": "https://avatars.akamai.steamstatic.com/9a55c0afae61be793898dc179e9f134f16df7d54_full.jpg",
+        "createdAt": "2026-02-08T05:08:42+00:00",
+        "updatedAt": "2026-02-08T05:22:05+00:00"
+    },
+    {
+        "id64": "76561198244695824",
+        "nombre": "Gaina",
+        "empresa": "GM INTERNACIONAL",
+        "url": "https://steamcommunity.com/profiles/76561198244695824",
+        "avatar": "https://avatars.akamai.steamstatic.com/14685ea905f00725c59d2e254d425c0eb80f0db7_full.jpg",
+        "createdAt": "2026-02-08T05:26:07+00:00",
+        "updatedAt": "2026-02-08T05:26:35+00:00"
+    },
+    {
+        "id64": "76561198070607852",
+        "nombre": "Nikquitu",
+        "empresa": "J&F INTERNACIONAL",
+        "url": "https://steamcommunity.com/id/Nikquitu",
+        "avatar": "https://avatars.akamai.steamstatic.com/7f9ca6f49e6c5c332328ed404b8e6ad821753b2b_full.jpg",
+        "createdAt": "2026-02-08T05:32:27+00:00",
+        "updatedAt": "2026-02-08T05:37:01+00:00"
+    },
+    {
+        "id64": "76561198167543044",
+        "nombre": "ChunkyBluntz",
+        "empresa": "TRANSPORTES SULLANA EXPRESS",
+        "url": "https://steamcommunity.com/profiles/76561198167543044",
+        "avatar": "https://avatars.akamai.steamstatic.com/8d14ef62a5d115454547f0fa2de10b8316455e0b_full.jpg",
+        "createdAt": "2026-02-08T06:06:00+00:00",
+        "updatedAt": "2026-02-08T06:06:00+00:00",
+        "updatedBy": "invitado"
+    }
+]
